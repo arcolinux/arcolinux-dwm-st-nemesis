@@ -1,4 +1,4 @@
-# st version
+# st version - st 0.9.2 (48kb) (2024-04-05)
 VERSION = 0.9.2
 
 # Customize below to fit your system
