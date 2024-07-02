@@ -15,4 +15,6 @@
 
 
 cd ./etc/skel/.config/arco-st/
+make clean
 make
+make clean
